@@ -27,6 +27,9 @@ https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed.
 
 ### 安装方法
 1. 把项目 clone 到本地
+```
+git clone https://github.com/windcode/my-mongodb.git
+```
 2. 下载 mongodb windows 版本，将安装后的 **bin 目录中的所有文件** 复制到本项目的 **bin** 目录下
 3. 双击项目目录下 **install-mongod.bat** 进行安装
 4. 注销或者重启计算机，使配置生效
