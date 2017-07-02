@@ -38,4 +38,5 @@ https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed.
 
 ### 注意
 
-只适用于 windows 64 位
+1. 只适用于 windows 64 位
+2. 四个文件夹下的 .gitkeep 文件可以删掉
