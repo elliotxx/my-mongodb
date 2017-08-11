@@ -11,13 +11,6 @@
 
 本项目帮助你自动完成以上步骤，你只需要下载一个安装包 + 启动 **install-mongod.bat** 脚本。
 
-### 安装包下载地址
-本项目使用 **mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed** 测试通过：
-
-下载地址：
-
-https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed.msi
-
 ### 特性
 1. bin、data、dblogs、conf 文件夹均已创建好
 2. 自动添加 **path** 环境变量
@@ -33,6 +26,13 @@ git clone https://github.com/windcode/my-mongodb.git
 2. 下载 mongodb windows 版本，将安装后的 **bin 目录中的所有文件** 复制到本项目的 **bin** 目录下
 3. 双击项目目录下 **install-mongod.bat** 进行安装
 4. 注销或者重启计算机，使配置生效
+
+### 安装包下载地址
+本项目使用 **mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed** 测试通过：
+
+下载地址：
+
+https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.4.5-signed.msi
 
 ### 测试使用
 1. 打开 cmd 命令提示符
